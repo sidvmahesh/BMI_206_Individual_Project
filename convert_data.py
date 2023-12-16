@@ -99,7 +99,7 @@ plt.savefig("./clustermap.pdf")
 #comparison_df.sort_values(by = "pval", inplace = True)
 #comparison_df = comparison_df.pivot(index = "TF_x", columns = "TF_y", values = "pval").fillna(1)
 
-pairwise_df["pval"] = [len(tfs_only_subset[tfs_only_subset["JACCARD"] > pairwise_df.iloc[i]["Jaccard"]])/5000 for i in range(len(pairwise_df))]
+pairwise_df["pval"] = [len(tfs_only_subset[tfs_only_subset["JACCARD"] > pairwise_df.iloc[i]["Jaccard"]])/40000 for i in range(len(pairwise_df))]
 #pairwise_df["padj"] = pairwise_df["pval"] / ((len(colnames)*len(colnames) - len(colnames))/2)
 pvals = []
 for i in range(len(pairwise_df)):
@@ -109,6 +109,8 @@ pairwise_df["padj"] = pvals
 pairwise_df.to_csv("./pairwise_jaccard_post_correction.csv")
 
 pairwise_df_pval = pairwise_df.pivot(index = "TF_x", columns = "TF_y", values = "padj")
+new_colnames = ["NR2F1", "NFKB1", "KDM5A", "ZNF92", "ATF4", "JARID2", "SIX2", "FOXP2", "TCF4", "SMAD1", "TFAP2C", "CDX2", "DUX4", "OTX2", "SOX10"]
+pairwise_df_pval = pairwise_df_pval.reindex(index = new_colnames, columns = new_colnames)
 sns.heatmap(pairwise_df_pval, cmap = ["red", "blue"], center = 0.05/105, linewidth = 0.5)
 plt.savefig("./pvalmap.pdf")
 #plt.show()
