@@ -1,0 +1,101 @@
+GO,NFKB1,SOX10,SMAD1,KDM5A,TFAP2C,SIX2,TCF4,JARID2,DUX4,OTX2,ATF4,NR2F1,ZNF92,FOXP2,CDX2
+plasma membrane bound cell projection organization (GO:0120036),1,1,1,0,1,1,0,1,1,1,1,0,1,0,1
+neurogenesis (GO:0022008),0,0,1,1,1,1,0,1,1,1,1,1,1,0,1
+regulation of biosynthetic process (GO:0009889),1,0,1,1,1,1,1,1,0,0,1,1,1,1,0
+regulation of anatomical structure morphogenesis (GO:0022603),0,1,1,1,1,1,1,1,0,0,1,1,1,1,0
+regulation of catalytic activity (GO:0050790),1,1,1,0,1,1,1,1,0,1,0,1,1,1,0
+establishment of localization in cell (GO:0051649),1,0,1,1,1,1,1,0,1,0,1,0,1,1,1
+positive regulation of RNA metabolic process (GO:0051254),1,0,1,1,1,1,1,1,0,0,1,1,0,1,1
+adaptive immune response (GO:0002250),1,1,0,1,1,1,0,1,1,0,1,1,1,0,1
+regulation of cell migration (GO:0030334),0,1,1,1,1,1,1,1,0,1,1,0,1,1,0
+regulation of cell motility (GO:2000145),0,1,1,1,1,1,1,1,0,1,1,0,1,1,0
+negative regulation of cellular process (GO:0048523),1,1,1,0,1,1,1,1,0,0,1,1,1,1,0
+cell morphogenesis (GO:0000902),0,1,0,1,0,1,1,1,0,1,1,1,1,1,1
+negative regulation of biological process (GO:0048519),1,1,1,0,1,1,1,1,0,0,1,1,1,1,0
+positive regulation of cellular component organization (GO:0051130),0,1,1,0,1,1,1,1,0,0,1,1,1,1,1
+cell projection organization (GO:0030030),1,1,1,0,1,1,1,1,1,0,1,0,1,0,1
+positive regulation of macromolecule biosynthetic process (GO:0010557),1,0,1,1,1,1,1,1,0,0,1,1,0,1,1
+phosphorylation (GO:0016310),1,0,1,0,1,1,1,1,1,0,0,1,1,1,1
+macromolecule metabolic process (GO:0043170),1,0,1,1,1,1,1,1,1,0,1,0,0,1,1
+regulation of primary metabolic process (GO:0080090),1,0,1,1,1,1,1,1,0,0,1,1,1,1,0
+cellular component assembly (GO:0022607),1,1,1,1,1,1,1,0,1,0,1,0,1,0,1
+regulation of protein metabolic process (GO:0051246),1,1,1,1,1,1,1,1,0,0,1,0,1,1,0
+positive regulation of nucleobase-containing compound metabolic process (GO:0045935),1,0,1,1,1,1,1,1,0,0,1,1,0,1,1
+regulation of multicellular organismal process (GO:0051239),0,1,1,1,1,1,1,1,0,0,1,1,1,1,0
+intracellular signal transduction (GO:0035556),1,0,1,0,1,1,1,1,0,1,1,1,1,1,0
+detection of stimulus (GO:0051606),1,0,1,1,1,1,1,1,1,0,1,0,1,1,0
+regulation of locomotion (GO:0040012),0,1,1,1,1,1,1,1,0,1,1,0,1,1,0
+regulation of gene expression (GO:0010468),1,0,1,1,1,1,1,1,0,0,1,1,1,1,0
+cell cycle (GO:0007049),1,0,1,1,1,1,1,0,1,0,1,0,0,1,1
+negative regulation of cellular metabolic process (GO:0031324),1,0,1,1,1,1,1,1,0,0,1,0,1,1,0
+regulation of cell differentiation (GO:0045595),0,1,1,1,1,1,1,1,0,0,0,1,1,1,0
+negative regulation of metabolic process (GO:0009892),1,0,1,0,1,1,1,1,0,0,1,1,1,1,0
+animal organ development (GO:0048513),0,0,1,1,1,1,1,1,0,0,1,1,1,1,0
+positive regulation of molecular function (GO:0044093),0,1,1,0,1,1,1,1,0,0,1,1,1,1,0
+establishment of localization (GO:0051234),1,0,1,0,1,1,1,1,1,0,1,0,1,1,0
+positive regulation of cell motility (GO:2000147),0,1,1,1,0,1,1,1,0,1,1,0,1,1,0
+positive regulation of cell migration 9GO:0030335),0,1,1,1,0,1,1,1,0,1,1,0,1,1,0
+negative regulation of cellular component organization (GO:0051129),1,1,1,0,1,1,1,1,0,0,1,0,1,1,0
+regulation of cellular biosynthetic process (GO:0031326),1,0,1,1,1,1,0,1,0,0,1,1,1,1,0
+cellular component biogenesis (GO:0044085),1,1,1,1,1,1,1,0,1,0,1,0,0,0,1
+regulation of response to stimulus (GO:0048583),1,0,1,0,1,1,1,1,1,0,0,1,1,1,0
+positive regulation of developmental process (GO:0051094),0,0,1,1,1,1,1,1,0,0,1,1,1,1,0
+regulation of signal transduction (GO:0009966),1,0,1,0,1,1,1,1,0,0,1,1,1,1,0
+regulation of cellular component biogenesis (GO:0044087),1,1,1,0,1,1,1,1,0,0,1,1,1,1,0
+positive regulation of DNA-templated transcription (GO:0045893),1,0,1,0,1,1,1,1,0,0,1,1,0,1,0
+organic substance biosynthetic process (GO:1901576),1,0,1,1,1,1,1,1,0,0,1,0,0,1,0
+organic cyclic compound metabolic process (GO:1901360),1,0,1,1,1,0,1,0,1,0,1,0,0,1,1
+cellular aromatic compound metabolic process (go:0006725),1,0,1,1,1,0,1,0,1,0,1,0,0,1,1
+negative regulation of nitrogen compound metabolic process (GO:0051172),1,0,1,0,1,1,1,1,0,0,1,0,1,1,0
+anatomical structure formation involved in morphogenesis (GO:0048646),1,0,1,1,1,1,0,1,0,0,0,1,1,1,0
+generation of neurons (GO:0048699),0,0,0,1,0,1,0,1,1,1,1,1,1,0,1
+regulation of macromolecule biosynthetic process (GO:0010556),1,0,1,1,1,1,0,1,0,0,1,1,0,1,0
+regulation of localization (GO:0032879),1,0,1,0,1,1,1,1,1,0,1,0,1,0,0
+regulation of catabolic process (GO:0009894),1,0,1,1,1,1,1,0,0,0,1,0,1,1,0
+regulation of intracellular signal transduction 9GO:1902531),1,0,1,0,1,1,1,1,0,0,1,0,1,1,0
+regulation of cell projection organization (GO:0031344),0,1,0,0,1,1,1,1,0,0,1,0,1,1,1
+response to endogenous stimulus (GO:0009719),0,0,1,1,1,1,1,1,0,0,0,1,1,1,0
+regulation of multicellular organismal development (GO:2000026),0,0,1,1,1,1,1,1,0,0,0,1,1,1,0
+regulation of cell cycle (GO:0051726),1,0,1,1,1,0,1,1,0,0,1,0,0,1,1
+biosynthetic process (GO:0009058),1,0,1,1,1,1,1,1,0,0,1,0,0,1,0
+heterocycle metabolic process (GO:0046483),1,0,1,1,1,0,1,0,1,0,1,0,0,1,1
+nucleobase-containing compound metabolic process (GO:0006139),1,0,1,1,1,0,1,0,1,0,1,0,0,1,1
+regulation of transport (GO:0051049),1,0,1,1,1,1,1,1,0,0,1,0,0,1,0
+cellular biosynthetic process (GO:0044249),1,0,1,1,1,1,1,1,0,0,1,0,0,1,0
+regulation of nucleobase-containing compound metabolic process (GO:0019219),1,0,1,1,1,1,0,1,0,0,1,1,0,1,0
+cell development (GO:0048468),0,0,1,1,1,1,1,1,0,1,0,1,1,0,0
+cellular nitrogen compound metabolic process (GO:0034641),1,0,1,1,1,0,1,0,1,0,1,0,0,1,1
+positive regulation of nucleic acid-templated transcription (GO:1903508),1,0,1,0,1,1,1,1,0,0,1,1,0,1,0
+positive regulation of cell communication (GO:0010647),0,0,1,1,1,1,1,1,0,0,0,1,1,1,0
+sensory perception (GO:0007600),1,0,1,1,1,1,1,1,0,0,1,0,0,1,0
+cellular response to stress (GO:0033554),1,0,1,1,1,1,1,1,0,0,1,0,0,1,0
+negative regulation of biosynthetic process (GO:0009890),1,0,1,0,1,1,1,1,0,0,1,0,1,1,0
+positive regulation of locomotion (GO:0040017),0,1,1,1,0,1,1,1,0,0,1,0,1,1,0
+negative regulation of macromolecule metabolic process (GO:0010605),1,0,1,0,1,1,1,1,0,0,1,0,1,1,0
+positive regulation of RNA biosynthetic process (GO:1902680),1,0,1,0,1,1,1,1,0,0,1,1,0,1,0
+negative regulation of cellular biosynthetic process (GO:0031327),1,0,1,0,1,1,1,1,0,0,1,0,1,1,0
+intracellular transport (go:0046907),1,0,1,1,1,0,1,0,1,0,1,0,0,1,1
+positive regulation of signaling (GO:0023056),0,0,1,1,1,1,1,1,0,0,0,1,1,1,0
+positive regulation of transcription by RNA polymerase II (GO:0045944),1,0,1,0,1,1,0,1,0,0,1,1,0,1,0
+protein phosphorylation (GO:0006468),0,0,1,0,1,1,1,1,0,0,0,1,1,0,1
+cell migration (GO:0016477),0,0,1,1,0,1,1,1,0,0,0,1,1,1,0
+cellular response to organic substance (GO:0071310),0,0,1,1,1,1,1,1,0,0,1,0,1,0,0
+cellular response to stimulus (GO:0051716),0,0,1,1,1,1,1,1,0,0,0,1,1,0,0
+cell motility (GO:0048870),0,0,1,1,1,1,1,1,0,0,0,0,1,1,0
+neuron development (GO:0048666),0,0,0,1,0,1,0,1,1,1,0,0,1,1,1
+neuron differentiation (GO:0030182),0,0,0,1,0,1,0,1,1,1,0,1,1,0,1
+negative regulation of cell communication (GO:0010648),0,0,1,0,1,1,1,1,0,0,0,1,1,1,0
+positive regulation of signal transduction (GO:0009967),0,0,1,1,1,1,1,1,0,0,0,1,1,0,0
+circulatory system development (GO:0072359),0,0,1,1,1,1,0,1,0,0,0,1,1,1,0
+organic sybstance transport (GO:0071702),1,0,1,1,1,1,1,0,0,0,1,0,1,0,0
+regulation of cytoskeleton organization (GO:0051493),0,0,1,0,1,1,1,1,0,0,1,0,1,1,0
+regulation of protein modification process (GO:0031399),0,0,1,0,1,1,1,1,0,0,1,0,1,1,0
+complement activation classical pathway (GO:0006958),0,0,1,1,0,1,0,1,0,0,1,0,1,1,1
+regulation of cell population proliferation (GO:0042127),0,0,1,1,1,1,1,1,0,0,0,0,1,1,0
+tube development (GO:0035295),0,0,1,1,1,1,0,1,0,0,0,1,1,1,0
+cellular catabolic process (GO:0044248),1,0,1,1,1,1,1,0,0,0,1,0,0,1,0
+catabolic process (GO:0009056),1,0,1,1,1,1,1,0,0,0,1,0,0,1,0
+transport (GO:0006810),1,0,1,0,1,1,1,1,0,0,1,0,1,0,0
+positive regulation of multicellular organismal process (GO:0051240),0,0,1,1,1,1,1,1,0,0,0,1,1,0,0
+regulation of plasma membrane bound cell projection organization (GO:0120035),0,1,0,0,0,1,1,1,0,0,1,0,1,1,1
+response to organic substance (GO:0010033),0,0,1,1,1,1,1,1,0,0,0,0,1,1,0
